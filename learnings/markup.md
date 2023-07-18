@@ -1,5 +1,11 @@
 ## 1. Structure a site using semantic HTML to aid accessibility
+In the <a href="https://github.com/benante/agency-website"> Valour Academy project</a> different semantic elements were used aid accessibility:
 
+![image](https://github.com/benante/Portfolio/assets/63957194/f5f2db1d-f0c9-47bb-afe7-9f54606b4b85)
+
+```<header>``` includes a ```<nav>``` element that contains navigation links. 
+
+```<main>``` on the other hand is divided by different ```<section>``` elements which also includes ```<h1>``` and ```h2``` headings, ```<p>``` paragraphs, and ```<li>``` list elements 
 ## 2. Ensure a web page is readable for screen readers
 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
