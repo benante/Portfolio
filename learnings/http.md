@@ -43,6 +43,7 @@ Each element in ```castArray``` is transformed into an HTML list item using temp
 ## 7. Use the filter array method to create a new array with certain values removed
 
 ## 8. Access DOM nodes using a variety of selectors
+
 Some elements are declared at the beginning of the ```script.js``` file using ```querySelector```, that targets ```tag```, ```class``` and ```id``` elements.
 ![image](https://github.com/benante/Portfolio/assets/63957194/3ad8bc77-8b56-4cd4-a58c-80c336e99df5)
 
@@ -64,8 +65,17 @@ DOM nodes are added or removed whenever the ```<button>``` element is clicked
 
 ## 11. Use consistent layout and spacing
 
+![image](https://github.com/benante/Portfolio/assets/63957194/0d079dd3-56b3-40c2-bb14-94c1588b9fcb)
+
+
 ## 12. Follow a spacing guideline to give our app a consistent feel
 
 ## 13. Debug client side JS in our web browser
 
+```console.log(err)``` is used in the ```movieAPIFetch()``` function to log any errors that occur during the fetch operation
+
+![image](https://github.com/benante/Portfolio/assets/63957194/b2fe8a58-c9a7-43e7-ba5e-82f5d4598c86)
+
+
 ## 14. Use console.log() to help us debug our code
+Use of ```console.log()``` is always fundamental for debugging. Usually it does get removed from the code once we are certain that everything runs correctly
