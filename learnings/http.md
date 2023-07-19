@@ -43,8 +43,22 @@ Each element in ```castArray``` is transformed into an HTML list item using temp
 ## 7. Use the filter array method to create a new array with certain values removed
 
 ## 8. Access DOM nodes using a variety of selectors
+Some elements are declared at the beginning of the ```script.js``` file using ```querySelector```, that targets ```tag```, ```class``` and ```id``` elements.
+![image](https://github.com/benante/Portfolio/assets/63957194/3ad8bc77-8b56-4cd4-a58c-80c336e99df5)
+
+```getElementById``` and ```getElementsByClassName``` are also used to retrieve specific element of the DOM
+
+![image](https://github.com/benante/Portfolio/assets/63957194/b89c06ab-4261-4950-97c9-082aac43d7ed)
+
+
+![image](https://github.com/benante/Portfolio/assets/63957194/4bae74a2-0a7b-4c85-bda1-de90ceb0804c)
+
 
 ## 9. Add and remove DOM nodes to change the content on the page
+DOM nodes are added or removed whenever the ```<button>``` element is clicked
+
+![image](https://github.com/benante/Portfolio/assets/63957194/f0e55240-2c22-4720-a2dc-4fe37634dea7)
+
 
 ## 10. Toggle the classes applied to DOM nodes to change their CSS properties
 
